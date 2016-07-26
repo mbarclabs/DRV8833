@@ -2,6 +2,6 @@
   "name": "DRV8833",
   "author": "Bhumil Patel <bhumil@vgyansol.com>",
   "license": "MIT",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A simple library to drive H Bridge using DRV8833 from ELECTRON"
 }
